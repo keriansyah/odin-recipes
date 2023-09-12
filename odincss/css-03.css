@@ -1,0 +1,30 @@
+/* STATUS FALSE
+.btn{
+    font-size: 28px;
+    font-family: Arial, "Times New Roman", Helvetica, sans-serif;
+}
+
+.btn.yes{
+    background-color: #000;
+    color: #fff;
+}
+
+.btn.no{
+    background-color: #ffff00;
+    color: #000;
+} */
+
+/* STATUS OK */
+.yes, .no{
+    font-size: 28px;
+    font-family: Arial, Helvetica, "Times New Roman", sans-serif; /* to resulting sans serif, use Arial */
+}
+
+.yes{
+    background-color: black;
+    color: white;
+}
+
+.no{
+    background-color: yellow;
+}
